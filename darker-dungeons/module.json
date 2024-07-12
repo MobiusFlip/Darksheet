@@ -42,7 +42,7 @@
   "socket": true,
   "url": "https://github.com/MobiusFlip/Darksheet/tree/master",
   "manifest": "https://raw.githubusercontent.com/MobiusFlip/Darksheet/master/darker-dungeons/module.json",
-  "download": "https://github.com/MobiusFlip/Darksheet/raw/master/darksheet.zip",
+  "download": "https://github.com/MobiusFlip/Darksheet/raw/master/darker-dungeons.zip",
   "id": "darker-dungeons",
   "authors": [
     {
