@@ -42,7 +42,7 @@
   "socket": true,
   "url": "https://github.com/MobiusFlip/Darksheet/tree/master",
   "manifest": "https://raw.githubusercontent.com/MobiusFlip/Darksheet/master/darksheet/module.json",
-  "download": "https://github.com/MobiusFlip/Darksheet/raw/main/darksheet.zip",
+  "download": "https://github.com/MobiusFlip/Darksheet/raw/master/darksheet.zip",
   "id": "darksheet",
   "authors": [
     {
